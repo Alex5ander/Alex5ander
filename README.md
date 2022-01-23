@@ -4,5 +4,6 @@
 * HTML5
 * CSS3
 * Javascript
-* C#
-* Wordpress
+* Typescript
+* React JS
+* React Native
