@@ -3,7 +3,7 @@
 ##### Tecnologias que venho estudando atualmente.
 * HTML5
 * CSS3
-* Javascript 
+* Javascript <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 * Typescript
 * React 
 
