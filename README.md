@@ -7,6 +7,6 @@
 * Typescript
 * React 
 
-<a href="Confira o perfil de Alexsander Gutierrez Gonçalves no LinkedIn https://www.linkedin.com/in/alexsander-gutierrez-gon%C3%A7alves-aa2266163">
+<a href="https://www.linkedin.com/in/alexsander-gutierrez-gon%C3%A7alves-aa2266163">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
