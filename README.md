@@ -9,7 +9,7 @@ Atualmente trabalho como desenvolvedor Front End na empresa <a href="https://hex
 <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 
-<br>
+##### Contatos:
 <a href="https://www.linkedin.com/in/alexsander-gutierrez-gon%C3%A7alves-aa2266163">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
