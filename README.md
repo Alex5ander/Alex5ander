@@ -1,4 +1,5 @@
-### Olá, seja bem vindo ao meu repositório.
+### Olá, seja bem vindo ao meu repositório, me chamo Alexsander, nasci no ano de 1998.
+Atualmente trabalho como desenvolvedor Front End na empresa <a href="https://hexalab.com.br/n/">HEXALAB SOLUCOES EM SOFTWARE LTDA</a>
 #### Aqui você encontrará alguns projetos que venho criando durante meu aprendizado.
 ##### Tecnologias que venho estudando atualmente.
 
