@@ -4,9 +4,6 @@
     Aqui você encontrará alguns projetos que venho criando durante meu aprendizado. 
 </div>
 
-
-<img alt="Graph" src="https://activity-graph.herokuapp.com/graph?username=Alex5ander&theme=minimal" />
-
 <p align="center">
     <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Alex5ander&show_icons=true&theme=dark" />
     <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex5ander&show_icons=true&theme=dark&layout=compact" />
