@@ -1,20 +1,23 @@
 ## Olá, seja bem vindo ao meu repositório, me chamo Alexsander.
 Atualmente trabalho como desenvolvedor Front End na empresa [HEXALAB SOLUCOES EM SOFTWARE LTDA](https://hexalab.com.br/n/ "HEXALAB SOLUCOES EM SOFTWARE LTDA").
 
-Aqui você encontrará alguns projetos que venho criando durante meu aprendizado.
+Aqui você encontrará alguns projetos que venho criando durante meu aprendizado. 
 
-![Graph](https://activity-graph.herokuapp.com/graph?username=Alex5ander&theme=minimal)
+![Graph](https://activity-graph.herokuapp.com/graph?username=Alex5ander&theme=minimal) 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex5ander&show_icons=true&theme=dark)
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex5ander&show_icons=true&theme=dark&layout=compact)
 
 ## Linguagens
 ### No trabalho
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML5")
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS3")
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E "Javascript")
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "Typescript")
-![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white "JSON")
+
+<p align="center">
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+</p>
 
 ### Hobby e estudo
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white "Java")
@@ -56,13 +59,28 @@ Aqui você encontrará alguns projetos que venho criando durante meu aprendizado
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white "Inkscape")
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white "Figma")
 
-## Cloud
-[![Glitch](https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white)](https://glitch.com/@Alex5ander "Glitch")
+<h2 align="center">Cloud</h2>
+<p align="center">
+    <a href="https://glitch.com/@Alex5ander" title="Glitch" >
+        <img alt="Glitch" src="https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white" />
+    </a>
+</p>
 
-## Games
-[![Itch](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://alex5ander.itch.io/ "Meu jogos")
+<h2 align="center">Games</h2>
+<p align="center">
+    <a href="https://alex5ander.itch.io/" title="Meus jogos">
+        <img alt="Itch" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
+    </a>
+</p>
 
-##### Social:
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alex5ander "Meu Github")
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsander-gutierrez-gon%C3%A7alves-aa2266163 "Meu Linkedin")
+
+<h2 align="center">Social:</h2>
+<p align="center"> 
+    <a href="https://github.com/Alex5ander" title="Meu Github" >
+        <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/alexsander-gutierrez-gon%C3%A7alves-aa2266163" title="Linkedin">
+        <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+</p>
 
