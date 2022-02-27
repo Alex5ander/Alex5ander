@@ -51,6 +51,11 @@ Aqui você encontrará alguns projetos que venho criando durante meu aprendizado
 ## Plataforma de prototipagem
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white "Arduino")
 
+## Não sou bom com arte mas segue algumas ferramentas que uso em casa como hobby
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white "Blender")
+![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white "Inkscape")
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white "Figma")
+
 ## Cloud
 [![Glitch](https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white)](https://glitch.com/@Alex5ander "Glitch")
 
