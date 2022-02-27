@@ -1,6 +1,7 @@
 <div align="center">
     <h2>Olá, seja bem vindo ao meu repositório, me chamo Alexsander.</h2>
-    Atualmente trabalho como desenvolvedor Front End na empresa [HEXALAB SOLUCOES EM SOFTWARE LTDA](https://hexalab.com.br/n/ "HEXALAB SOLUCOES EM SOFTWARE LTDA").
+    Atualmente trabalho como desenvolvedor Front End na empresa 
+    <a title="HEXALAB SOLUCOES EM SOFTWARE LTDA" href="https://hexalab.com.br/n/">HEXALAB SOLUCOES EM SOFTWARE LTDA</a>
     Aqui você encontrará alguns projetos que venho criando durante meu aprendizado. 
 </div>
 
@@ -58,7 +59,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white "Arduino")
 
 <div align="center">
-    <h3>Softwares de design que utilizo</h3>
+    <h3>Softwares de desenho que utilizo</h3>
     <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
     <img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" />
     <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
