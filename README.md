@@ -1,18 +1,43 @@
-# Olá, seja bem vindo ao meu repositório, me chamo Alexsander.
-#### Atualmente trabalho como desenvolvedor Front End na empresa [HEXALAB SOLUCOES EM SOFTWARE LTDA](https://hexalab.com.br/n/ "HEXALAB SOLUCOES EM SOFTWARE LTDA").
-### Aqui você encontrará alguns projetos que venho criando durante meu aprendizado.
-#### Tecnologias que venho estudando atualmente.
+## Olá, seja bem vindo ao meu repositório, me chamo Alexsander.
+Atualmente trabalho como desenvolvedor Front End na empresa [HEXALAB SOLUCOES EM SOFTWARE LTDA](https://hexalab.com.br/n/ "HEXALAB SOLUCOES EM SOFTWARE LTDA").
 
+Aqui você encontrará alguns projetos que venho criando durante meu aprendizado.
+
+![a](https://activity-graph.herokuapp.com/graph?username=Alex5ander&theme=minimal)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex5ander&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex5ander&show_icons=true&theme=dark&layout=compact)
+
+## Linguagens que utilizo e estudo atualmente
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML5")
-
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS3")
-
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E "Javascript")
-
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white "JSON")
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "Typescript")
-
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React Native")
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white "Java")
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white "CSharp")
 
-##### Contatos:
+## IDE
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=whit "VSCode")
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black "Notepad++")
+![Gitpod](https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33 "Gitpod")
+![Arduiono IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
+## Sistemas operacionais que mais uso
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white "Windows") ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white "Android")
+
+## Navegador favorito
+![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white "Google Chrome")
+
+## Plataforma de prototipagem
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white "Arduino")
+
+## Games
+[![Itch](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://alex5ander.itch.io/ "Meu jogos")
+
+##### Social:
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alex5ander "Meu Github")
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsander-gutierrez-gon%C3%A7alves-aa2266163 "Meu Linkedin")
+
