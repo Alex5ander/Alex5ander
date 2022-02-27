@@ -51,6 +51,9 @@ Aqui você encontrará alguns projetos que venho criando durante meu aprendizado
 ## Plataforma de prototipagem
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white "Arduino")
 
+## Cloud
+[![Glitch](https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white)](https://glitch.com/@Alex5ander "Glitch")
+
 ## Games
 [![Itch](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://alex5ander.itch.io/ "Meu jogos")
 
