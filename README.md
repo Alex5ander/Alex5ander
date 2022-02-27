@@ -1,31 +1,37 @@
-## Olá, seja bem vindo ao meu repositório, me chamo Alexsander.
-Atualmente trabalho como desenvolvedor Front End na empresa [HEXALAB SOLUCOES EM SOFTWARE LTDA](https://hexalab.com.br/n/ "HEXALAB SOLUCOES EM SOFTWARE LTDA").
+<div align="center">
+    <h2>Olá, seja bem vindo ao meu repositório, me chamo Alexsander.</h2>
+    Atualmente trabalho como desenvolvedor Front End na empresa [HEXALAB SOLUCOES EM SOFTWARE LTDA](https://hexalab.com.br/n/ "HEXALAB SOLUCOES EM SOFTWARE LTDA").
+    Aqui você encontrará alguns projetos que venho criando durante meu aprendizado. 
+</div>
 
-Aqui você encontrará alguns projetos que venho criando durante meu aprendizado. 
 
-![Graph](https://activity-graph.herokuapp.com/graph?username=Alex5ander&theme=minimal) 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex5ander&show_icons=true&theme=dark)
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex5ander&show_icons=true&theme=dark&layout=compact)
-
-## Linguagens
-### No trabalho
+<img alt="Graph" src="https://activity-graph.herokuapp.com/graph?username=Alex5ander&theme=minimal" />
 
 <p align="center">
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Alex5ander&show_icons=true&theme=dark" />
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex5ander&show_icons=true&theme=dark&layout=compact" />
+</p>
+
+## Linguagens
+
+<div align="center">
+    <h3>No trabalho</h3>
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-</p>
+</div>
 
-### Hobby e estudo
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white "Java")
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white "C")
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white "C++")
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white "C#")
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white "PHP")
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue "Python")
+<div align="center">
+    <h3>Hobby e estudo</h3>
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+</div>
 
 ## Frameworks
 ### Trabalho
@@ -59,28 +65,27 @@ Aqui você encontrará alguns projetos que venho criando durante meu aprendizado
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white "Inkscape")
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white "Figma")
 
-<h2 align="center">Cloud</h2>
-<p align="center">
+<div align="center">
+    <h2>Cloud</h2>
     <a href="https://glitch.com/@Alex5ander" title="Glitch" >
         <img alt="Glitch" src="https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white" />
     </a>
-</p>
+</div>
 
-<h2 align="center">Games</h2>
-<p align="center">
+<div align="center">
+    <h2>Games</h2>
     <a href="https://alex5ander.itch.io/" title="Meus jogos">
         <img alt="Itch" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
     </a>
-</p>
+</div>
 
-
-<h2 align="center">Social:</h2>
-<p align="center"> 
+<div align="center"> 
+    <h2>Social</h2>
     <a href="https://github.com/Alex5ander" title="Meu Github" >
         <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/alexsander-gutierrez-gon%C3%A7alves-aa2266163" title="Linkedin">
         <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-</p>
+</div>
 
