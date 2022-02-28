@@ -59,14 +59,6 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white "Arduino")
 
 <div align="center">
-    <h3>Softwares de desenho que utilizo</h3>
-    <img alt="Blender" title="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
-    <img alt="Inkscape" title="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" />
-    <img alt="Figma" title="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</div>
-
-
-<div align="center">
     <h2>Cloud</h2>
     <a href="https://glitch.com/@Alex5ander" title="Glitch" >
         <img alt="Glitch" title="Glitch" src="https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white" />
