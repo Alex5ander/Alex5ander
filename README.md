@@ -1,5 +1,5 @@
 <div align="center">
-    <h2>Olá, seja bem vindo ao meu repositório, me chamo Alexsander.</h2>
+    <h2>Olá, seja bem vindo ao meu repositório.</h2>
     Atualmente trabalho como desenvolvedor Front End na empresa <a title="HEXALAB SOLUCOES EM SOFTWARE LTDA" href="https://hexalab.com.br/n/">Hexalab Soluções em Software LTDA</a>
     <p>Aqui você encontrará alguns projetos que venho criando durante meu aprendizado.</p>
 </div>
