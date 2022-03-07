@@ -87,5 +87,8 @@
     <a href="https://www.linkedin.com/in/alexsander-gutierrez-gon%C3%A7alves-aa2266163" title="Linkedin">
         <img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
+    <p align="center">
+        <img alt="Custom widget" src="https://github-profile-custom-widget.glitch.me/" />
+    </p>
 </div>
 
