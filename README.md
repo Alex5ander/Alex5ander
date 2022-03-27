@@ -21,6 +21,8 @@
     <a href="https://alex5ander.itch.io/" title="Indie Games">
         <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" >
     </a>
+    <h2>Plataforma de prototipagem</h2>
+    <img alt="Arduino" title="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
     <h2>Social</h2>
     <a href="https://github.com/Alex5ander" title="Meu Github" >
         <img alt="Github" title="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
