@@ -31,7 +31,7 @@
         <img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <p>
-        <img title="Widget customizado feito utilizando express e mongodb" alt="Custom widget" src="https://github-profile-custom-widget.glitch.me/" />
+        <img title="Widget customizado feito utilizando express e mongodb" alt="Se isso não carregou da primeira vez, recarregue a página pois o servidor desliga automaticamente" src="https://github-profile-custom-widget.glitch.me/" />
     </p>
 </div>
 
