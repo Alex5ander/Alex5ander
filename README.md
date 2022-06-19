@@ -1,7 +1,7 @@
 ## Olá, seja bem vindo ao meu repositório
 #### Aqui você encontrará alguns projetos que venho criando durante meu aprendizado.
 
-![G](https://github-readme-stats.vercel.app/api?username=Alex5ander&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alex5ander&show_icons=true&theme=dark)
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex5ander&show_icons=true&theme=dark&layout=compact)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
