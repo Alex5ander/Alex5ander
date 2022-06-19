@@ -31,7 +31,5 @@
 [![Meu github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alex5ander)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsander-gutierrez-gon%C3%A7alves-aa2266163)
 
-<p>
-    <img title="Widget customizado feito utilizando express e mongodb" alt="Se isso não carregou da primeira vez, recarregue a página pois o servidor desliga automaticamente" src="https://github-profile-custom-widget.glitch.me/" />
-</p>
+ <img title="Widget customizado feito utilizando express e mongodb" alt="Se isso não carregou da primeira vez, recarregue a página pois o servidor desliga automaticamente" src="https://github-profile-custom-widget.glitch.me/" />
 
