@@ -1,7 +1,5 @@
 ## Olá, seja bem vindo(a)
 
-* Técnico em desenvolvimento de sistemas.
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alex5ander&show_icons=true&theme=dark)
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex5ander&show_icons=true&theme=dark&layout=compact)
 
