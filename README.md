@@ -1,7 +1,6 @@
 ## Olá, seja bem vindo(a)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alex5ander&show_icons=true&theme=dark)
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex5ander&show_icons=true&theme=dark&layout=compact)
+#### Sou um desenvolvedor de sistemas com habilidades em diversas tecnologias, como:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,10 +17,20 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 [![Indie games](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://alex5ander.itch.io/)
 
-## Social
+### Algumas estatísticas:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alex5ander&show_icons=true&theme=dark)
+
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex5ander&show_icons=true&theme=dark&layout=compact)
+
+### Contato
+Se quiser entrar em contato comigo ou ver mais sobre meus projetos, confira meus perfis no GitHub e LinkedIn:
 
 [![Meu github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alex5ander)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsander-gutierrez-gon%C3%A7alves-aa2266163)
+
+### Curiosidade
+Eu criei um widget customizado usando Express e MongoDB para mostrar quantas vezes o meu perfil do GitHub foi visitado. Confira abaixo:
 
  <img title="Widget customizado feito utilizando express e mongodb" alt="Se isso não carregou da primeira vez, recarregue a página pois o servidor desliga automaticamente" src="https://github-widget-pi.vercel.app/api/visit" />
 
