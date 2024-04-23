@@ -19,14 +19,13 @@ Sou um desenvolvedor de sistemas com habilidades em diversas tecnologias, como:
 
 ### Algumas estatísticas:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alex5ander&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alex5ander&show_icons=true&theme=dark&hide_title=true)
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex5ander&show_icons=true&theme=dark&layout=compact)
 
 ### Contato
-Se quiser entrar em contato comigo ou ver mais sobre meus projetos, confira meus perfis no GitHub e LinkedIn:
+Se quiser entrar em contato comigo ou ver mais sobre meus projetos, confira meus perfis:
 
-[![Meu github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alex5ander)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsander-gutierrez-gon%C3%A7alves-aa2266163)
+[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/alexsandergutierrezgoncalves)
 
 ### Curiosidade
 Eu criei um widget customizado usando Express e MongoDB para mostrar quantas vezes o meu perfil do GitHub foi visitado. Confira abaixo:
