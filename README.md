@@ -30,5 +30,5 @@ Se quiser entrar em contato comigo ou ver mais sobre meus projetos, confira meus
 ### Curiosidade
 Eu criei um widget customizado usando Express e MongoDB para mostrar quantas vezes o meu perfil do GitHub foi visitado. Confira abaixo:
 
- <img title="Widget customizado feito utilizando express e mongodb" alt="Se isso não carregou da primeira vez, recarregue a página pois o servidor desliga automaticamente" src="https://github-widget-pi.vercel.app/api/visit" />
+ <img width="100%" title="Widget customizado feito utilizando express e mongodb" alt="Se isso não carregou da primeira vez, recarregue a página pois o servidor desliga automaticamente" src="https://github-widget-pi.vercel.app/api/visit" />
 
