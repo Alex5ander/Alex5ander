@@ -21,3 +21,5 @@ Sou um desenvolvedor de sistemas com habilidades em diversas tecnologias, como:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alex5ander&show_icons=true&theme=dark&hide_title=true)
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex5ander&show_icons=true&theme=dark&layout=compact)
+
+![Github Stats](https://github-profile-custom-widget.glitch.me/api/visit)
