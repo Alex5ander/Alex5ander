@@ -22,4 +22,11 @@ Sou um desenvolvedor de sistemas com habilidades em diversas tecnologias, como:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alex5ander&show_icons=true&theme=dark&hide_title=true)
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex5ander&show_icons=true&theme=dark&layout=compact)
 
+![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alex5ander&theme=dark)
+![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alex5ander&theme=dark)
+![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alex5ander&theme=dark&utcOffset=8)
+
+![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alex5ander&theme=dark)
+![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alex5ander&theme=dark)
+
 ![Github Stats](https://github-profile-custom-widget.glitch.me/api/visit)
