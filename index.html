@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content=">Portfólio alexsander" />
+  <title>Portfólio - Alexsander</title>
+  <style>
+    :root {
+      --bg-color: #f9fafb;
+      --text-color: #1f2937;
+      --title-color: #2563eb;
+      --card-bg: #ffffff;
+      --footer-color: #6b7280;
+      --border-color: #e5e7eb;
+      --accent-color: #3b82f6;
+    }
+
+    body.dark {
+      --bg-color: #0f172a;
+      --text-color: #e2e8f0;
+      --title-color: #60a5fa;
+      --card-bg: #1e293b;
+      --footer-color: #94a3b8;
+      --border-color: #334155;
+      --accent-color: #60a5fa;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: var(--bg-color);
+      color: var(--text-color);
+      line-height: 1.6;
+      transition: background 0.3s ease, color 0.3s ease;
+    }
+
+    .banner {
+      background: linear-gradient(to right, var(--accent-color), var(--title-color));
+      color: white;
+      padding: 3rem 2rem;
+      text-align: center;
+      border-radius: 0 0 1rem 1rem;
+      margin-bottom: 3rem;
+    }
+
+    .banner h1 {
+      font-size: 3rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .banner p {
+      font-size: 1.25rem;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 2rem;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 4rem;
+    }
+
+    header h1 {
+      font-size: 2.75rem;
+      color: var(--title-color);
+      font-weight: 700;
+    }
+
+    header p {
+      font-size: 1.25rem;
+      margin-top: 0.75rem;
+    }
+
+    .grid {
+      display: grid;
+      gap: 2rem;
+    }
+
+    @media (min-width: 768px) {
+      .grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+
+    @media (min-width: 1024px) {
+      .grid {
+        grid-template-columns: repeat(3, 1fr);
+      }
+    }
+
+    .card {
+      background: var(--card-bg);
+      border: 1px solid var(--border-color);
+      border-radius: 1rem;
+      padding: 2rem;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+      transition: transform 0.2s ease, box-shadow 0.3s ease;
+    }
+
+    .card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 32px rgba(0, 0, 0, 0.12);
+    }
+
+    .card h2 {
+      color: var(--title-color);
+      font-size: 1.5rem;
+      margin-bottom: 1rem;
+      border-bottom: 2px solid var(--accent-color);
+      padding-bottom: 0.5rem;
+    }
+
+    .card p,
+    .card ul,
+    .card li {
+      font-size: 1rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .card ul {
+      padding-left: 1rem;
+    }
+
+    footer {
+      margin-top: 4rem;
+      text-align: center;
+      font-size: 0.875rem;
+      color: var(--footer-color);
+    }
+
+    .social-icons {
+      margin-top: 1rem;
+    }
+
+    .social-icons a {
+      margin: 0 0.5rem;
+      color: var(--title-color);
+      text-decoration: none;
+      font-size: 1.5rem;
+      transition: color 0.3s ease;
+    }
+
+    .social-icons a:hover {
+      color: var(--accent-color);
+    }
+
+    .toggle-dark {
+      position: fixed;
+      top: 1rem;
+      right: 1rem;
+      background: var(--card-bg);
+      color: var(--text-color);
+      border: 1px solid var(--border-color);
+      padding: 0.5rem 1rem;
+      border-radius: 0.5rem;
+      cursor: pointer;
+      font-weight: 600;
+      transition: background-color 0.3s ease, color 0.3s ease;
+    }
+
+    .toggle-dark:hover {
+      background: var(--accent-color);
+      color: #fff;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="banner">
+    <h1>Bem-vindo ao meu Portfólio</h1>
+    <p>Soluções em desenvolvimento web para o seu negócio</p>
+  </div>
+
+  <div class="container">
+    <button class="toggle-dark" onclick="toggleDarkMode()">Alternar tema</button>
+    <header>
+      <h1>Alexsander Gutierrez Gonçalves</h1>
+      <p>Desenvolvedor Front-End | Técnico em Informática para Internet | Técnico em Desenvolvimento de Sistemas</p>
+    </header>
+
+    <section class="grid">
+      <div class="card">
+        <h2>Sobre Mim</h2>
+        <p>
+          Sou um desenvolvedor especializado em criar interfaces intuitivas, funcionais e modernas utilizando HTML, CSS,
+          JavaScript, React.js e PHP. Tenho também conhecimento em banco de dados e busco sempre entregar soluções
+          práticas e eficientes para os clientes.
+        </p>
+        <p>Trabalhei por 2 anos como desenvolvedor front-end, adquirindo experiência prática com projetos reais.</p>
+        <p>Além disso, crio jogos 2D com foco em experiências simples e envolventes, ideais para web ou dispositivos
+          móveis.</p>
+      </div>
+
+      <div class="card">
+        <h2>Serviços</h2>
+        <ul>
+          <li>Criação de sites institucionais</li>
+          <li>Landing pages</li>
+          <li>Sistemas web personalizados</li>
+          <li>Otimização de sites</li>
+          <li><em>* Integrações com pagamento e lojas virtuais podem ser feitas em parceria com outros profissionais
+              especializados.</em></li>
+        </ul>
+      </div>
+
+      <div class="card">
+        <h2>Tecnologias</h2>
+        <ul>
+          <li>HTML, CSS, JavaScript</li>
+          <li>React.js</li>
+          <li>PHP</li>
+          <li>MySQL e outros bancos de dados</li>
+        </ul>
+      </div>
+
+      <div class="card">
+        <h2>Projetos</h2>
+        <p>Veja alguns dos projetos que desenvolvi:</p>
+        <ul>
+          <li>Site para loja de roupas</li>
+          <li>Painel administrativo para clínicas</li>
+          <li>Landing page para lançamento de produto</li>
+          <!-- <li><strong>Simulador de Orçamento Online</strong>: ferramenta para estimar valores de serviços com base em
+            opções selecionadas.</li>
+        </ul> -->
+      </div>
+
+      <div class="card">
+        <h2>Contato</h2>
+        <p>Entre em contato para orçamento ou mais informações:</p>
+        <p>Email: <a href="mailto:alexsander.callme@gmail.com">alexsander.callme@gmail.com</a></p>
+        <!-- <p>WhatsApp: (00) 00000-0000</p> -->
+      </div>
+    </section>
+
+    <footer>
+      &copy; <span id="year"></span> Alexsander Gutierrez Gonçalves. Todos os direitos reservados.
+      <div class="social-icons">
+        <a href="https://www.instagram.com/" target="_blank">Instagram</a>
+        <a href="https://www.facebook.com/" target="_blank">Facebook</a>
+        <a href="https://github.com/Alex5ander/" target="_blank">GitHub</a>
+      </div>
+    </footer>
+  </div>
+
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+    function toggleDarkMode() {
+      document.body.classList.toggle("dark");
+    }
+  </script>
+</body>
+
+</html>
