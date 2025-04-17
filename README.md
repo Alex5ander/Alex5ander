@@ -32,13 +32,13 @@ Tenho habilidades nas seguintes tecnologias(até porque são as que mais uso par
 ### Baixem meu aplicativo um leitor de códigos como qualquer outro(ou não), que foi desenvolvido em Kotlin em poucas horas(e que demorou semanas para ser públicado, obrigado Google Play!).
 
 <p>
-  <a href='https://scan-hat.br.uptodown.com/android' title='Baixar Scan Hat' >
+  <a href='https://scan-hat.br.uptodown.com/android' title='Baixar Scan Hat' target='_blank'>
     <img src='https://stc.utdstc.com/img/mediakit/download-gio-big.png' alt='Baixar Scan Hat'>
   </a>
 </p>
 
 <p>
-  <a href='https://play.google.com/store/apps/details?id=br.com.alexsander.leitor' title='Baixar Scan Hat' >
+  <a href='https://play.google.com/store/apps/details?id=br.com.alexsander.leitor' title='Baixar Scan Hat' target='_blank'>
     <img src='https://raw.githubusercontent.com/Alex5ander/Scan-Hat/refs/heads/main/GetItOnGooglePlay_Badge_Web_color_Portuguese-BR.png' alt='Baixar Scan Hat'>
   </a>
 </p>
