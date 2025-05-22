@@ -44,4 +44,4 @@ Tenho habilidades nas seguintes tecnologias(até porque são as que mais uso par
 </p>
 
 ### Meu próprio widget, as vezes ele não carrega de primeira(vai ver ele é meio preguiçoso).
-![Github Stats](https://github-profile-custom-widget.glitch.me/api/visit)
+![Github Stats](https://github-widget.onrender.com/api/visit)
